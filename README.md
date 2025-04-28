@@ -1,6 +1,5 @@
 # 💫 About Me:
-i am 3 rd year computer science student
-
+I'm a passionate 3rd-year Computer Science student with a strong foundation in programming, web development, and problem-solving. I enjoy creating interactive websites, building projects with technologies like Java, Python, and React, and constantly learning new skills to sharpen my craft. I love turning ideas into real-world applications and am always excited to explore the latest innovations in tech. When I'm not coding, you’ll often find me brainstorming project ideas or diving into tech blogs with a coffee in hand. ☕🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jayanth V) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayanthvvo395@gmail.com) 
